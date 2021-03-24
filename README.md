@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VISHNUKV
-- 👀 I’m interested in ...COADING
+- 👀 I’m interested in ...Coading
 - 🌱 I’m currently learning ...REACT.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...VISHNUKVOFF@GMAIL.COM
